@@ -1,4 +1,2 @@
-# codecademy-randomcolorpicker
-
-### Random Color Picker
+## Random Color Picker
 ### React part 2 project
